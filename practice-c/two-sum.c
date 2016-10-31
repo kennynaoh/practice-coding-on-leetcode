@@ -18,4 +18,5 @@ int* twoSum(int* nums, int numsSize, int target) {
     result[0] = i;
     result[1] = j;
     return result;
+
 }
