@@ -32,7 +32,6 @@ int main(){
 	int input;
 	while(1){
 		scanf("%d", &input);
-		printf("%d\n", input);
 		if(isPalindrome(input)) {
 			printf("true\n");
 		}
